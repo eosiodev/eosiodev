@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eosiodev
 - 👀 I’m interested in EOSIO
-- 💞️ I’m looking to collaborate on EOS Networks
+- 💞️ I’m looking to collaborate on EOSIO - AntelopeIO based Networks
 - 📫 How to reach me https://t.me/eosiodev
 - Software development: C++ Qt JavaScript NodeJS EmberJS React & EOSIO
 
